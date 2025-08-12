@@ -36,8 +36,8 @@ Every day, I’m sharpening my skills to become a **full-fledged developer**.
 <a href="https://facebook.com/horlatunji.horlarenwaju" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
-<a href="https://twitter.com/tipdevsme" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+<a href="https://twitter.com/TipDevs" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 </p>
@@ -67,9 +67,8 @@ Every day, I’m sharpening my skills to become a **full-fledged developer**.
 
 ---
 
-| GitHub Stats | Top Languages |
-|--------------|---------------|
+| GitHub Stats                                                                                                            | Top Languages                                                                                                                           |
+| ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
 | ![TipDevs's GitHub stats](https://github-readme-stats.vercel.app/api?username=TipDevs&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TipDevs&layout=compact&theme=tokyonight&cache_seconds=1800) |
-
 
 ---
