@@ -10,7 +10,7 @@ I started learning **HTML** and **CSS**, which opened the doors to **JavaScript*
 
 So far, I’ve:
 - Completed **Foundations** and **Intermediate HTML & CSS** courses on *The Odin Project*  
-- Progressed through the **JavaScript Course** (34% complete)
+- Progressed through the **JavaScript Course** (53% complete)
 - Gained hands-on experience with **DOM manipulation**, **event handling**, and **object-oriented JavaScript**
 - Worked on **small projects** to solidify my knowledge
 - Founded **TipDevs**, a community for tech enthusiasts to share knowledge, showcase projects, and collaborate
@@ -38,9 +38,24 @@ Every day, I’m sharpening my skills to become a **full-fledged developer**.
 ---
 
 ## 🛠️ Tech Stack
+**Skills**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Tools & Libraries**  
+![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black)
+![PubSubJS](https://img.shields.io/badge/PubSubJS-1D1D1D?style=for-the-badge&logo=javascript&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
+![date-fns](https://img.shields.io/badge/date--fns-770C56?style=for-the-badge&logo=date-fns&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
