@@ -65,6 +65,8 @@ Every day, I’m sharpening my skills to become a **full-fledged developer**.
 
 ## 📊 GitHub Stats
 
-![TipDevs's GitHub stats](https://github-readme-stats.vercel.app/api?username=TipDevs&show_icons=true&theme=tokyonight)
+![TipDevs's GitHub stats](https://github-readme-stats.vercel.app/api?username=TipDevs&show_icons=true&theme=tokyonight&cache_seconds=1800)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TipDevs&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
