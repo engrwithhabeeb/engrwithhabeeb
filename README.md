@@ -14,10 +14,18 @@ So far, I’ve:
 - Completed **Foundations** and **Intermediate HTML & CSS** courses on _The Odin Project_
 - Progressed through the **JavaScript Course** (53% complete)
 - Gained hands-on experience with **DOM manipulation**, **event handling**, and **object-oriented JavaScript**
+- Learned advanced concepts like **closures**, **prototypes**, **IIFE (Immediately Invoked Function Expressions)**, **Promises**, **async/await**, **factory functions**, and working with **APIs**
 - Worked on **small projects** to solidify my knowledge
 - Founded **TipDevs**, a community for tech enthusiasts to share knowledge, showcase projects, and collaborate
 
 Every day, I’m sharpening my skills to become a **full-fledged developer**.
+
+## ⚡ Fun Facts
+
+- I love cooking as much as coding 🍳
+- Always listening to lo-fi beats while coding 🎧
+- Coffee fuels my creativity ☕
+
 
 ---
 
@@ -72,3 +80,9 @@ Every day, I’m sharpening my skills to become a **full-fledged developer**.
 | ![TipDevs's GitHub stats](https://github-readme-stats.vercel.app/api?username=TipDevs&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TipDevs&layout=compact&theme=tokyonight&cache_seconds=1800) |
 
 ---
+
+## 🤝 Let’s Collaborate
+
+I’m open to collaborating on open source and real-world projects!  
+Feel free to reach out or check my repos for ideas to contribute.
+
