@@ -5,11 +5,13 @@
 ---
 
 ## 🚀 My Journey in Tech
+
 My journey in tech began with curiosity about how websites and applications work.  
-I started learning **HTML** and **CSS**, which opened the doors to **JavaScript** and the exciting world of web development.  
+I started learning **HTML** and **CSS**, which opened the doors to **JavaScript** and the exciting world of web development.
 
 So far, I’ve:
-- Completed **Foundations** and **Intermediate HTML & CSS** courses on *The Odin Project*  
+
+- Completed **Foundations** and **Intermediate HTML & CSS** courses on _The Odin Project_
 - Progressed through the **JavaScript Course** (53% complete)
 - Gained hands-on experience with **DOM manipulation**, **event handling**, and **object-oriented JavaScript**
 - Worked on **small projects** to solidify my knowledge
@@ -20,6 +22,7 @@ Every day, I’m sharpening my skills to become a **full-fledged developer**.
 ---
 
 ## 📫 Connect with Me
+
 <p align="left">
 <a href="https://instagram.com/tipdevsme" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
@@ -38,6 +41,7 @@ Every day, I’m sharpening my skills to become a **full-fledged developer**.
 ---
 
 ## 🛠️ Tech Stack
+
 **Skills**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -60,6 +64,7 @@ Every day, I’m sharpening my skills to become a **full-fledged developer**.
 ---
 
 ## 📊 GitHub Stats
+
 ![TipDevs's GitHub stats](https://github-readme-stats.vercel.app/api?username=TipDevs&show_icons=true&theme=tokyonight)
 
 ---
