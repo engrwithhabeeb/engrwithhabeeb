@@ -1,63 +1,53 @@
-# Hi there, I'm Habeeb Abullahi 👋
+# Hi there, I'm Habeeb Abullahi
 
-💻 **Aspiring Web Developer** | 🌐 **Tech Enthusiast** | 📚 **Lifelong Learner** | 🏆 **Founder of TipDevs**
-
----
-
-## 🚀 My Journey in Tech
-
-My journey in tech began with curiosity about how websites and applications work.  
-I started learning **HTML** and **CSS**, which opened the doors to **JavaScript** and the exciting world of web development.
-
-So far, I’ve:
-
-- Completed **Foundations** and **Intermediate HTML & CSS** courses on _The Odin Project_
-- Progressed through the **JavaScript Course** (53% complete)
-- Gained hands-on experience with **DOM manipulation**, **event handling**, and **object-oriented JavaScript**
-- Learned advanced concepts like **closures**, **prototypes**, **IIFE (Immediately Invoked Function Expressions)**, **Promises**, **async/await**, **factory functions**, and working with **APIs**
-- Worked on **small projects** to solidify my knowledge
-- Founded **TipDevs**, a community for tech enthusiasts to share knowledge, showcase projects, and collaborate
-
-Every day, I’m sharpening my skills to become a **full-fledged developer**.
-
-## ⚡ Fun Facts
-
-- I love cooking as much as coding 🍳
-- Always listening to lo-fi beats while coding 🎧
-- Coffee fuels my creativity ☕
-
+**Frontend Developer (in progress)** | **Exploring Software Engineering, Architecture & System Design** | **Founder of Brynch Technologies**  
 
 ---
 
-## 📫 Connect with Me
+## About Me
 
-<p align="left">
-<a href="https://instagram.com/tipdevsme" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://threads.net/tipdevsme" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" />
-</a>
-<a href="https://youtube.com/@tipdevs" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-<a href="https://facebook.com/horlatunji.horlarenwaju" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-<a href="https://twitter.com/TipDevs" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
+I am currently building a strong foundation in modern web development and software engineering principles.
 
-</p>
+Rather than only learning frameworks, I focus on understanding how software systems are structured, designed, and maintained.
+
+Through my journey with The Odin Project, I’ve been developing projects while exploring:
+
+- Modular JavaScript architecture
+- Separation of concerns
+- Event-driven design patterns (PubSub)
+- Application vs Domain logic boundaries
+- Clean and maintainable code structures
+- Real-world project thinking
+
+I approach projects like real products, focusing on maintainability and scalability.
 
 ---
 
-## 🛠️ Tech Stack
+## Current Learning Progress
+
+- Completed Foundations – HTML & CSS
+- Completed Advanced HTML & CSS
+- Completed JavaScript Course
+- Currently finishing the React Course (~80%)
+
+Alongside the curriculum, I explore:
+
+- Software architecture fundamentals
+- System design thinking
+- Codebase structuring
+- Engineering best practices
+
+---
+
+## Tech Stack
 
 **Skills**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Currently Learning**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 **Tools & Libraries**  
 ![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black)
@@ -75,14 +65,77 @@ Every day, I’m sharpening my skills to become a **full-fledged developer**.
 
 ---
 
-| GitHub Stats                                                                                                            | Top Languages                                                                                                                           |
-| ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| ![TipDevs's GitHub stats](https://github-readme-stats.vercel.app/api?username=TipDevs&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TipDevs&layout=compact&theme=tokyonight&cache_seconds=1800) |
+## Areas I'm Exploring Deeply
+
+- Frontend architecture
+- Event-driven systems
+- Scalable project structure
+- Engineering thinking beyond frameworks
 
 ---
 
-## 🤝 Let’s Collaborate
+## Brynch Technologies
 
-I’m open to collaborating on open source and real-world projects!  
-Feel free to reach out or check my repos for ideas to contribute.
+I founded **Brynch Technologies**, a people-first technology company and digital ecosystem based in Nigeria focused on building real digital products, platforms, and media while cultivating the next generation of global innovators.
 
+At Brynch, technology is most powerful when it is interconnected. The company brings together developers, designers, cybersecurity enthusiasts, AI learners, and product builders — known as **Brynchites** — to collaborate, launch products, and solve real-world problems through technology.
+
+Brynch operates as both:
+
+- A product development company
+- A technology learning ecosystem
+
+where building and learning happen simultaneously.
+
+The ecosystem is supported by **techPixeller**, a media and storytelling platform that documents product journeys, highlights emerging technology trends, and shares insights from the growing Brynch community.
+
+Brynch Technologies exists to empower builders, foster innovation, and create meaningful digital products with global impact.
+
+---
+
+## Fun Facts
+
+- I enjoy cooking as much as coding 🍳
+- I like understanding systems from first principles
+- I prefer learning why things work, not just how to use them
+
+---
+
+## Connect With Me
+
+<p align="left">
+<a href="https://instagram.com/tipdevsme" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://threads.net/tipdevsme" target="_blank">
+  <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" />
+</a>
+<a href="https://youtube.com/@tipdevs" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+<a href="https://facebook.com/horlatunji.horlarenwaju" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="https://twitter.com/TipDevs" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## GitHub Stats
+
+| GitHub Stats | Top Languages |
+|-------------|--------------|
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TipDevs&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TipDevs&layout=compact&theme=tokyonight&cache_seconds=1800) |
+
+---
+
+## Collaboration
+
+I’m open to collaborating on:
+
+- Real-world projects
+- Open source contributions
+- Frontend architecture discussions
+- Developer community initiatives
