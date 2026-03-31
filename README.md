@@ -104,10 +104,10 @@ Brynch Technologies exists to empower builders, foster innovation, and create me
 ## Connect With Me
 
 <p align="left">
-<a href="https://instagram.com/tipdevsme" target="_blank">
+<a href="https://instagram.com/engrwithhabeeb" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://threads.net/tipdevsme" target="_blank">
+<a href="https://threads.net/engrwithhabeeb" target="_blank">
   <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" />
 </a>
 <a href="https://youtube.com/@tipdevs" target="_blank">
@@ -116,7 +116,7 @@ Brynch Technologies exists to empower builders, foster innovation, and create me
 <a href="https://facebook.com/horlatunji.horlarenwaju" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
-<a href="https://twitter.com/TipDevs" target="_blank">
+<a href="https://twitter.com/engrwithhabeeb" target="_blank">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 </p>
